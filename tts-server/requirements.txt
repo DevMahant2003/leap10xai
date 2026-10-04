@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+torch
+torchaudio
+TTS
+pydantic
+edge-tts
